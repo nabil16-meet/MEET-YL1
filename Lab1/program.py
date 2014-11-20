@@ -1,1 +1,2 @@
 print ("Nabil")
+printMyName("Nabil")
